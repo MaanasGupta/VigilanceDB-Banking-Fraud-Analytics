@@ -10,7 +10,7 @@ By centralizing telemetry across hardware profiles, client transaction types, an
 ## 🚀 Interactive Control Interface Preview
 Below is the dark-themed operational UI built for financial crime units:
 
-![Dashboard Framework Preview](VigilanceDB End-to-End Banking Fraud Analytics & Risk Mitigation Dashboard.png)
+![Dashboard Framework Preview](VigilanceDB_End-to-End_Banking_Fraud_Analytics_&_Risk_Mitigation_Dashboard.png)
 
 ![Dashboard Framework Preview](VigilanceDB+End-to-End+Banking+Fraud+Analytics+&+Risk+Mitigation+Dashboard+2026-06-20+02-06-02.gif)
 ---
